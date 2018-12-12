@@ -8,6 +8,10 @@ public class HelloWorld {
     public int getI(){
         return i;
     }
+
+    public void setI(int i){
+        this.i = i;
+    }
     System.out.prinln("MOMO");
     System.out.prinln("Default Dance"); 
 }
